@@ -1,2 +1,2 @@
 # gap_dynamics
- This repository inludes the R code which was used for the analysis performed for the paper "Analysing gap dynamics in forest canopies with landscape metrics based on multi-temporal airborne laser scanning surveys – A pilot study"
+ This repository contains the R code used for the analysis as part of the paper "Analyzing gap dynamics in forest canopies with landscape metrics based on multi-temporal airborne laser scanning surveys - A pilot study". The file "Documentation.pdf" contains a brief explanation of the functions we have implemented in "lanscape_metrics_simulation_function.R". The other .R-files contain the analysis in 7 separate steps and should be used in the corresponding order. 
